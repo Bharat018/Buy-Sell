@@ -1,0 +1,152 @@
+[
+	{
+		"id": 1,
+		"image": "image.jpg",
+		"price":"$400",
+		"tag": "Fruit"
+	},
+	{
+		"id": 2,
+		"image": "image1.jpg",
+		"price":"$400",
+		"tag": "Fruit"
+	},
+	{
+		"id": 3,
+		"image": "image13.jpg",
+		"price":"$400",
+		"tag": "Bike"
+	},
+	{
+		"id": 4,
+		"image": "image4.jpg",
+		"price":"$400",
+		"tag": "Bike"
+	},
+	{
+		"id": 5,
+		"image": "image5.jpg",
+		"price":"$400",
+		"tag": "Car"
+	},
+	{
+		"id": 6,
+		"image": "image6.jpg",
+		"price":"$400",
+		"tag": "Bike"
+	},
+	{
+		"id": 7,
+		"image": "image7.jpg",
+		"price":"$400",
+		"tag": "Car"
+	},
+	{
+		"id": 8,
+		"image": "image8.jpg",
+		"price":"$400",
+		"tag": "Car"
+	},
+	{
+		"id": 9,
+		"image": "image9.jpg",
+		"price":"$400",
+		"tag": "Car"
+	},
+	{
+		"id": 10,
+		"image": "image10.jpg",
+		"price":"$400",
+		"tag": "Bike"
+	},
+	{
+		"id": 11,
+		"image": "image11.jpg",
+		"price":"$400",
+		"tag": "Car"
+	},
+	{
+		"id": 12,
+		"image": "image12.jpg",
+		"price":"$400",
+		"tag": "Fruit"
+	},
+	{
+		"id": 13,
+		"image": "image2.jpg",
+		"price":"$400",
+		"tag": "Fruit"
+	},
+	{
+		"id": 14,
+		"image": "image14.jpg",
+		"price":"$400",
+		"tag": "Bike"
+	},
+	{
+		"id": 15,
+		"image": "image15.jpg",
+		"price":"$400",
+		"tag": "Car"
+	},
+	{
+		"id": 16,
+		"image": "image16.jpg",
+		"price":"$400",
+		"tag": "Fruit"
+	},
+	{
+		"id": 17,
+		"image": "image17.jpg",
+		"price":"$400",
+		"tag": "Fruit"
+	},
+	{
+		"id": 18,
+		"image": "image18.jpg",
+		"price":"$400",
+		"tag": "Fruit"
+	},
+	{
+		"id": 19,
+		"image": "image19.jpg",
+		"price":"$400",
+		"tag": "Mobile"
+	},
+	{
+		"id": 20,
+		"image": "image20.jpg",
+		"price":"$400",
+		"tag": "Mobile"
+	},
+	{
+		"id": 21,
+		"image": "image21.jpg",
+		"price":"$400",
+		"tag": "Mobile"
+	},
+	{
+		"id": 22,
+		"image": "image22.jpg",
+		"price":"$400",
+		"tag": "Mobile"
+	},
+	{
+		"id": 23,
+		"image": "image23.jpg",
+		"price":"$400",
+		"tag": "Mobile"
+	},
+	{
+		"id": 24,
+		"image": "image24.jpg",
+		"price":"$400",
+		"tag": "Mobile"
+	},
+	{
+		"id": 25,
+		"image": "image25.jpg",
+		"price":"$400",
+		"tag": "Mobile"
+	}
+]
